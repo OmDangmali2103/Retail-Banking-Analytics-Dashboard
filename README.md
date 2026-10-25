@@ -144,32 +144,27 @@ Comparing deposits, checking accounts, savings accounts, and related balances pr
 ---
 
 ## 📈 Power BI Dashboard
-
 The report contains four dashboard pages, each focused on a different aspect of the banking analysis.
 
 ### 1. 🏠 Home — Banking Overview
-
 ![Home Page](page1_home.png)
-
-Provides an overview of the banking dataset through summary statistics and key visuals.
-
-**Purpose:** Help users understand the overall customer and financial landscape before exploring individual areas.
+Provides an overview of the banking dataset through summary statistics and key visuals. 
+Purpose: Help users understand the overall customer and financial landscape before exploring individual areas.
 
 ### 2. 💳 Loan Analysis
-
 ![Loan Analysis](page2_loan_analysis.png)
-
-Focuses on loan-related information and customer segments.
-
-**Purpose:** Make lending patterns easier to examine and compare.
+Focuses on loan-related information and customer segments. 
+Purpose: Make lending patterns easier to examine and compare.
 
 ### 3. 💰 Deposit Analysis
-
 ![Deposit Analysis](page3_deposit_analysis.png)
+Explores deposits and balances across different account categories. 
+Purpose: Help users compare account balances and investigate relationships between financial products.
 
-Explores deposits and balances across different account categories.
-
-**Purpose:** Help users compare account balances and investigate relationships between financial products.
+### 4. 📋 Summary
+![Summary](page4_summary.png)
+Brings together key visuals and analytical themes from the report. 
+Purpose: Provide a consolidated view of the findings for easier interpretation.
 
 ### 4. 📋 Summary
 
