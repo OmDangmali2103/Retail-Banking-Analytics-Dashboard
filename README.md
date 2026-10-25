@@ -149,7 +149,7 @@ The report contains four dashboard pages, each focused on a different aspect of 
 
 ### 1. 🏠 Home — Banking Overview
 
-![Home Dashboard](powerbi/page1_home.png)
+![Home Page](page1_home.png)
 
 Provides an overview of the banking dataset through summary statistics and key visuals.
 
@@ -157,7 +157,7 @@ Provides an overview of the banking dataset through summary statistics and key v
 
 ### 2. 💳 Loan Analysis
 
-![Loan Analysis](powerbi/page2_loan_analysis.png)
+![Loan Analysis](page2_loan_analysis.png)
 
 Focuses on loan-related information and customer segments.
 
@@ -165,7 +165,7 @@ Focuses on loan-related information and customer segments.
 
 ### 3. 💰 Deposit Analysis
 
-![Deposit Analysis](powerbi/page3_deposit_analysis.png)
+![Deposit Analysis](page3_deposit_analysis.png)
 
 Explores deposits and balances across different account categories.
 
@@ -173,7 +173,7 @@ Explores deposits and balances across different account categories.
 
 ### 4. 📋 Summary
 
-![Summary Dashboard](powerbi/page4_summary.png)
+![Summary](page4_summary.png)
 
 Brings together key visuals and analytical themes from the report.
 
