@@ -202,26 +202,6 @@ Retail-Banking-Analytics-Dashboard/
 └── README.md
 ```
 
----
-
-## 🚀 How to Explore the Project
-
-### Prerequisites
-- Python and Jupyter Notebook, or VS Code with notebook support
-- Python libraries: `pandas`, `numpy`, `matplotlib`, and `seaborn`
-- MySQL, if using the database workflow
-- Power BI Desktop
-
-### Steps
-
-1. Clone or download this repository.
-2. Open `eda/BankEDA.ipynb` in VS Code or Jupyter Notebook.
-3. Install the required Python libraries in your environment.
-4. Run the notebook cells to explore the data and visualizations.
-5. If using MySQL, configure the database and import the dataset according to your local setup.
-6. Open `powerbi/Banking Dashboard.pbix` in Power BI Desktop to explore the report.
-
-**Note:** Database connection details and import scripts must be configured for your own environment; they are not included in the current repository structure.
 
 ---
 
