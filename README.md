@@ -86,7 +86,7 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 ### ✅ Page 1: Home  
 > Overview of the banking data with summary statistics and key visuals.  
 
-<img src="powerbi/page1_home.png" alt="Page 1 - Home" width="700"/>
+[Home Page](page1_home.png)
 
 ---
 
