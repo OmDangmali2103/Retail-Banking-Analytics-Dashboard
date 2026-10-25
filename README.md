@@ -181,30 +181,6 @@ Brings together key visuals and analytical themes from the report.
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Retail-Banking-Analytics-Dashboard/
-│
-├── data/
-│   └── Banking.csv
-│
-├── eda/
-│   └── BankEDA.ipynb
-│
-├── powerbi/
-│   ├── Banking Dashboard.pbix
-│   ├── page1_home.png
-│   ├── page2_loan_analysis.png
-│   ├── page3_deposit_analysis.png
-│   └── page4_summary.png
-│
-└── README.md
-```
-
-
----
-
 ## 🎓 Skills Demonstrated
 
 - Exploratory data analysis
